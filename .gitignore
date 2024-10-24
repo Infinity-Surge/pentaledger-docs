@@ -2,5 +2,8 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 
+# MacOS cruft
+.DS_Store
+
 # build files
 build/
