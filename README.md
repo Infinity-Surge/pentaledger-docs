@@ -1,2 +1,4 @@
 # pentaledger-docs
-Pentaledger documentation repository
+Pentaledger Documentation Repository
+
+This repository contains documentation relating to the PentaLedger applications.
