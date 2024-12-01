@@ -11,6 +11,7 @@ Welcome to PentaLedger Functional Specification's documentation!
    :caption: Contents:
 
    introduction
+   formulas
 
 Indices and tables
 ==================
